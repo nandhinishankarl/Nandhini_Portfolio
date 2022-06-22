@@ -1,7 +1,7 @@
 # Nandhini_Portfolio
 Data Science Portfolio
 
-# Project 1: Uber Trip Analysis (Exploratory Data Analysis): Project Overview
+# [Project 1: Uber Trip Analysis (Exploratory Data Analysis): Project Overview](https://github.com/nandhinishankarl/Exploratory-Data-Analysis-Projects/blob/main/Uber%20Trip%20Analysis%20(NYC).ipynb)
  - Downloaded a dataset from Kaggle that contains information about uber trips from September 2014. 
  - Visualized the number of trips per weekday in the month of September using a histogram.
  - From the graph, it's evident that Monday was the busiest day.
@@ -10,4 +10,3 @@ Data Science Portfolio
  - It dipped from 6:00 PM to 11:00 PM. 
  - Visualized the density of trips per location. 
  - From the scatter plot, it's evident that the density of rides is high in Manhattan and low in New Jersey. 
-
