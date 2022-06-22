@@ -10,3 +10,5 @@ Data Science Portfolio
  - It dipped from 6:00 PM to 11:00 PM. 
  - Visualized the density of trips per location. 
  - From the scatter plot, it's evident that the density of rides is high in Manhattan and low in New Jersey. 
+
+![](https://github.com/nandhinishankarl/Nandhini_Portfolio/blob/main/images/Unknown.png)
