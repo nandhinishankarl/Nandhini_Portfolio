@@ -12,3 +12,5 @@ Data Science Portfolio
  - From the scatter plot, it's evident that the density of rides is high in Manhattan and low in New Jersey. 
 
 ![](images/Screen%20Shot%202022-06-22%20at%207.32.22%20PM.png)
+![](images/Screen%20Shot%202022-06-22%20at%207.32.38%20PM.png)
+![](images/Screen%20Shot%202022-06-22%20at%207.32.54%20PM.png)
