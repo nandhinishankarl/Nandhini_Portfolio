@@ -11,9 +11,9 @@ Data Science Portfolio
  - Visualized the density of trips per location. 
  - From the scatter plot, it's evident that the density of rides is high in Manhattan and low in New Jersey. 
 
-![](images/Screen%20Shot%202022-06-22%20at%207.32.22%20PM.png)
-![](images/Screen%20Shot%202022-06-22%20at%207.32.38%20PM.png)
-![](images/Screen%20Shot%202022-06-22%20at%207.32.54%20PM.png)
+<img src="images/Screen%20Shot%202022-06-22%20at%207.32.22%20PM.png" width="400">
+<img src="images/Screen%20Shot%202022-06-22%20at%207.32.38%20PM.png" width="400">
+<img src="images/Screen%20Shot%202022-06-22%20at%207.32.54%20PM.png" width="400">
 
 # [Project 2: Amazon Fine Food Reviews (Sentiment Analysis): Project Overview](https://github.com/nandhinishankarl/Sentiment-Analysis-Projects/blob/main/Kaggle%20-%20Amazon%20Fine%20Food%20Reviews-2.ipynb)
 - Downloaded a dataset from Kaggle that contains fine food reviews that were collected over a period of 10 years till October 2012 from Amazon.
@@ -24,6 +24,6 @@ Data Science Portfolio
 - Created a sentiment analysis model to make predictions.
 - Made use of logistic regression to predict the sentiment, the overall accuracy of the model was 93%.
 
-<img src="images/Screen%20Shot%202022-07-01%20at%202.22.26%20PM.png" width="500">
-<img src="images/Screen%20Shot%202022-07-01%20at%202.22.36%20PM.png" width="500">
-<img src="images/Screen%20Shot%202022-07-01%20at%202.22.45%20PM.png" width="500">
+<img src="images/Screen%20Shot%202022-07-01%20at%202.22.26%20PM.png" width="400">
+<img src="images/Screen%20Shot%202022-07-01%20at%202.22.36%20PM.png" width="400">
+<img src="images/Screen%20Shot%202022-07-01%20at%202.22.45%20PM.png" width="400">
