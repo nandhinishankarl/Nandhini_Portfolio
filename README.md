@@ -14,3 +14,12 @@ Data Science Portfolio
 ![](images/Screen%20Shot%202022-06-22%20at%207.32.22%20PM.png)
 ![](images/Screen%20Shot%202022-06-22%20at%207.32.38%20PM.png)
 ![](images/Screen%20Shot%202022-06-22%20at%207.32.54%20PM.png)
+
+# [Project 2: Amazon Fine Food Reviews (Sentiment Analysis): Project Overview] (https://github.com/nandhinishankarl/Sentiment-Analysis-Projects/blob/main/Kaggle%20-%20Amazon%20Fine%20Food%20Reviews-2.ipynb)
+- Downloaded a dataset from Kaggle that contains fine food reviews that were collected over a period of 10 years till October 2012 from Amazon.
+- Visualized a wordcloud using the wordcloud package to see which words were frequently used in the reviews.
+- The words that stood out seem to express a positive sentiment which indicates that most reviews in the dataset were positive.
+- Divided the main dataset into two (positive sentiment and negative sentiment) for text classification based on the scores that were given by users.
+- Created a word cloud for both the datasets to see which words were frequently used.
+- Created a sentiment analysis model to make predictions.
+- Made use of logistic regression to predict the sentiment, the overall accuracy of the model was 93%.
