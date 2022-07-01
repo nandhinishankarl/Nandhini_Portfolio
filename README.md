@@ -11,9 +11,12 @@ Data Science Portfolio
  - Visualized the density of trips per location. 
  - From the scatter plot, it's evident that the density of rides is high in Manhattan and low in New Jersey. 
 
-<img src="images/Screen%20Shot%202022-06-22%20at%207.32.22%20PM.png" width="400" alt = "Density of trips histogram">&nbsp;&nbsp;&nbsp;
+<img src="images/Screen%20Shot%202022-06-22%20at%207.32.22%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
+&nbsp;
 <img src="images/Screen%20Shot%202022-06-22%20at%207.32.38%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
+&nbsp;
 <img src="images/Screen%20Shot%202022-06-22%20at%207.32.54%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
+&nbsp;
 
 # [Project 2: Amazon Fine Food Reviews (Sentiment Analysis): Project Overview](https://github.com/nandhinishankarl/Sentiment-Analysis-Projects/blob/main/Kaggle%20-%20Amazon%20Fine%20Food%20Reviews-2.ipynb)
 - Downloaded a dataset from Kaggle that contains fine food reviews that were collected over a period of 10 years till October 2012 from Amazon.
