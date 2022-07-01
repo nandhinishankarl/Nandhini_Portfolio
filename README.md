@@ -11,7 +11,7 @@ Data Science Portfolio
  - Visualized the density of trips per location. 
  - From the scatter plot, it's evident that the density of rides is high in Manhattan and low in New Jersey. 
 
-<img src="images/Screen%20Shot%202022-06-22%20at%207.32.22%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
+<img src="images/Screen%20Shot%202022-06-22%20at%207.32.22%20PM.png" width="400" alt = "Density of trips histogram">&nbsp;&nbsp;&nbsp;
 <img src="images/Screen%20Shot%202022-06-22%20at%207.32.38%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
 <img src="images/Screen%20Shot%202022-06-22%20at%207.32.54%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
 
