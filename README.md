@@ -24,6 +24,6 @@ Data Science Portfolio
 - Created a sentiment analysis model to make predictions.
 - Made use of logistic regression to predict the sentiment, the overall accuracy of the model was 93%.
 
-<img src="images/Screen%20Shot%202022-07-01%20at%202.22.26%20PM.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp
-<img src="images/Screen%20Shot%202022-07-01%20at%202.22.36%20PM.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp
-<img src="images/Screen%20Shot%202022-07-01%20at%202.22.45%20PM.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp
+<img src="images/Screen%20Shot%202022-07-01%20at%202.22.26%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
+<img src="images/Screen%20Shot%202022-07-01%20at%202.22.36%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
+<img src="images/Screen%20Shot%202022-07-01%20at%202.22.45%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
