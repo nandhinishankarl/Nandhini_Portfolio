@@ -23,3 +23,7 @@ Data Science Portfolio
 - Created a word cloud for both the datasets to see which words were frequently used.
 - Created a sentiment analysis model to make predictions.
 - Made use of logistic regression to predict the sentiment, the overall accuracy of the model was 93%.
+
+![](images/Screen%20Shot%202022-07-01%20at%202.22.26%20PM.png)
+![](images/Screen%20Shot%202022-07-01%20at%202.22.36%20PM.png)
+![](images/Screen%20Shot%202022-07-01%20at%202.22.45%20PM.png)
