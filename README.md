@@ -27,3 +27,4 @@ Data Science Portfolio
 ![](images/Screen%20Shot%202022-07-01%20at%202.22.26%20PM.png)
 ![](images/Screen%20Shot%202022-07-01%20at%202.22.36%20PM.png)
 ![](images/Screen%20Shot%202022-07-01%20at%202.22.45%20PM.png)
+<img src="images/Screen%20Shot%202022-07-01%20at%202.22.45%20PM.png" width="200">
