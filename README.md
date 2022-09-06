@@ -33,6 +33,7 @@ Data Science Portfolio
 
 # [Project 3: Disney Movie Dataset Creation (Web Scraping): Project Overview](https://github.com/nandhinishankarl/Web-Scraping/blob/main/Disney_Movie_Dataset_Creation_.ipynb)
 - Scraped the info box from wikipedia for all Disney Films
+- The info box for every Disney film was saved in the form of a dictionary 
 - Made use of the BeautifulSoup package for web scraping
 - Cleaned data before saving it in the form of a csv file
 
