@@ -31,3 +31,9 @@ Data Science Portfolio
 <img src="images/Screen%20Shot%202022-07-01%20at%202.22.36%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
 <img src="images/Screen%20Shot%202022-07-01%20at%202.22.45%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
 
+# [Project 3: Disney Movie Dataset Creation (Web Scraping): Project Overview](https://github.com/nandhinishankarl/Web-Scraping/blob/main/Disney_Movie_Dataset_Creation_.ipynb)
+- Scraped the info box from wikipedia for all Disney Films
+- Made use of the BeautifulSoup package for web scraping
+- Cleaned data before saving it in the form of a csv file
+
+<img src="images/Screen%20Shot%202022-09-05%20at%208.22.22%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
