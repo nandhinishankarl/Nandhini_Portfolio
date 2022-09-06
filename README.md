@@ -36,4 +36,4 @@ Data Science Portfolio
 - Made use of the BeautifulSoup package for web scraping
 - Cleaned data before saving it in the form of a csv file
 
-<img src="images/Screen%20Shot%202022-09-05%20at%208.22.22%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
+<img src="images/Screen%20Shot%202022-09-05%20at%208.22.22%20PM.png" width="600">&nbsp;&nbsp;&nbsp;
