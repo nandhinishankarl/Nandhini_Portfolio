@@ -40,4 +40,4 @@ Data Science Portfolio
 -	Analyzed the dataset further for top 10 grossing Disney films till date
 -	The Lion King was the highest grossing Disney film till date
 
-<img src="images/Screen%20Shot%202022-09-05%20at%208.22.22%20PM.png" width="600">&nbsp;&nbsp;&nbsp;
+<img src="images/Screen%20Shot%202022-09-30%20at%209.47.58%20AM.png" width="600">&nbsp;&nbsp;&nbsp;
