@@ -31,7 +31,7 @@ Data Science Portfolio
 <img src="images/Screen%20Shot%202022-07-01%20at%202.22.36%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
 <img src="images/Screen%20Shot%202022-07-01%20at%202.22.45%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
 
-# [Project 3: Disney Movie Dataset Creation (Web Scraping): Project Overview](https://github.com/nandhinishankarl/Web-Scraping/blob/main/Disney_Movie_Dataset_Creation_.ipynb)
+# [Project 3: Disney Movie Dataset Creation (Web Scraping): Project Overview](https://github.com/nandhinishankarl/Web-Scraping/blob/main/Disney_Movie_Dataset_Creation_2.ipynb)
 
 - Scraped the info box from wikipedia for all Disney Films 
 -	Information for every film was stored in the form of a Python dictionary 
