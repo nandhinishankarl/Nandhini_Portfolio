@@ -33,7 +33,7 @@ Data Science Portfolio
 
 - Scraped the info box from wikipedia for all Disney Films 
 -	Information for every film was stored in the form of a Python dictionary 
--	Made use of the BeautifulSoup python package for  scraping portions of the webpages
+-	Made use of the BeautifulSoup python library for scraping portions of the webpages
 -	Cleaned data before saving it in the form of a csv file
 -	Analyzed the dataset further for top 10 grossing Disney films till date
 -	The Lion King was the highest grossing Disney film till date
