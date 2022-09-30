@@ -28,8 +28,6 @@ Data Science Portfolio
 - Made use of logistic regression to predict the sentiment, the overall accuracy of the model was 93%.
 
 <img src="images/Screen%20Shot%202022-07-01%20at%202.22.26%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
-<img src="images/Screen%20Shot%202022-07-01%20at%202.22.36%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
-<img src="images/Screen%20Shot%202022-07-01%20at%202.22.45%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
 
 # [Project 3: Disney Movie Dataset Creation (Web Scraping): Project Overview](https://github.com/nandhinishankarl/Web-Scraping/blob/main/Disney_Movie_Dataset_Creation_2.ipynb)
 
