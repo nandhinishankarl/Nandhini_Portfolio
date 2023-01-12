@@ -18,18 +18,8 @@ Data Science Portfolio
 <img src="images/Screen%20Shot%202022-06-22%20at%207.32.54%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
 &nbsp;
 
-# [Project 2: Amazon Fine Food Reviews (Sentiment Analysis): Project Overview](https://github.com/nandhinishankarl/Sentiment-Analysis-Projects/blob/main/Kaggle%20-%20Amazon%20Fine%20Food%20Reviews-2.ipynb)
-- Downloaded a dataset from Kaggle that contains fine food reviews that were collected over a period of 10 years till October 2012 from Amazon.
-- Visualized a wordcloud using the wordcloud package to see which words were frequently used in the reviews.
-- The words that stood out seem to express a positive sentiment which indicates that most reviews in the dataset were positive.
-- Divided the main dataset into two (positive sentiment and negative sentiment) for text classification based on the scores that were given by users.
-- Created a word cloud for both the datasets to see which words were frequently used.
-- Created a sentiment analysis model to make predictions.
-- Made use of logistic regression to predict the sentiment, the overall accuracy of the model was 93%.
 
-<img src="images/Screen%20Shot%202022-07-01%20at%202.22.26%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
-
-# [Project 3: Disney Movie Dataset Creation (Web Scraping): Project Overview](https://github.com/nandhinishankarl/Web-Scraping/blob/main/Disney_Movie_Dataset_Creation_2.ipynb)
+# [Project 2: Disney Movie Dataset Creation (Web Scraping): Project Overview](https://github.com/nandhinishankarl/Web-Scraping/blob/main/Disney_Movie_Dataset_Creation_2.ipynb)
 
 - Scraped the info box from wikipedia for all Disney Films 
 -	Information for every film was stored in the form of a Python dictionary 
@@ -37,5 +27,27 @@ Data Science Portfolio
 -	Cleaned data before saving it in the form of a csv file
 -	Analyzed the dataset further for top 10 grossing Disney films till date
 -	The Lion King was the highest grossing Disney film till date
+
+<img src="images/Screen%20Shot%202022-09-30%20at%209.47.58%20AM.png" width="600">&nbsp;&nbsp;&nbsp;
+
+# [Project 3: Midnights Sentiment Analysis : Project Overview](https://github.com/nandhinishankarl/Sentiment-Analysis-Projects/blob/main/Midnights%20Sentiment%20Analysis%20-3.ipynb)
+
+- Created a Python list of urls for all the songs from the Midnights album 
+- Created a dataset that contains 3 columns using python's 'pandas' library : title, lyrics and sentiment score.
+- Scraped lyrics from the list of urls using Genius.com's API 
+- Cleaned the lyrics column by removing unnecessary words and characters/punctuations using Python's re (regular expresson) package
+- Created a wordcloud to see which words were prominent and frequently occuring
+- Words like love, fallin and feel stood out, an indicator that the theme of the album is about falling in love
+- Calculated the overall sentiment score for each song using SentimentIntensityAnalyzer 
+- Visualized the sentiment scores for all songs from the Midnights Album using the matplotlib library in the form of a bar graph 
+- There were 4 songs had highly negative scores, the highest being Anti-Hero, a song about self-deprecation. 
+- There were 9 songs had highly positive scores, which is an indicator of Taylor Swift's happiness in her romantic life.
+
+<img src="images/Screen%20Shot%202023-01-12%20at%2012.23.24%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
+<img src="images/Screen%20Shot%202023-01-12%20at%2012.23.41%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
+
+
+
+
 
 <img src="images/Screen%20Shot%202022-09-30%20at%209.47.58%20AM.png" width="600">&nbsp;&nbsp;&nbsp;
