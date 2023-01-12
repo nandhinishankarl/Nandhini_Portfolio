@@ -46,8 +46,3 @@ Data Science Portfolio
 <img src="images/Screen%20Shot%202023-01-12%20at%2012.23.24%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
 <img src="images/Screen%20Shot%202023-01-12%20at%2012.23.41%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
 
-
-
-
-
-<img src="images/Screen%20Shot%202022-09-30%20at%209.47.58%20AM.png" width="600">&nbsp;&nbsp;&nbsp;
