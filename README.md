@@ -44,5 +44,5 @@ Data Science Portfolio
 - There were 9 songs had highly positive scores, which is an indicator of Taylor Swift's happiness in her romantic life.
 
 <img src="images/Screen%20Shot%202023-01-12%20at%2012.23.24%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
-<img src="images/Screen%20Shot%202023-01-12%20at%2012.23.41%20PM.png" width="200">&nbsp;&nbsp;&nbsp;
+<img src="images/Screen%20Shot%202023-01-12%20at%2012.23.41%20PM.png" width="300">&nbsp;&nbsp;&nbsp;
 
