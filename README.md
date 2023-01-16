@@ -37,10 +37,10 @@ Data Science Portfolio
 - Scraped lyrics from the list of urls using Genius.com's API 
 - Cleaned the lyrics column by removing unnecessary words and characters/punctuations using Python's re (regular expresson) package
 - Created a wordcloud to see which words were prominent and frequently occuring
-- Words like love, fallin and feel stood out, an indicator that the theme of the album is about falling in love
+- Words like 'love', 'fallin' and 'feel' stood out, an indicator that the theme of the album is about falling in love
 - Calculated the overall sentiment score for each song using SentimentIntensityAnalyzer 
 - Visualized the sentiment scores for all songs from the Midnights Album using the matplotlib library in the form of a bar graph 
-- There were 4 songs had highly negative scores, the highest being Anti-Hero, a song about self-deprecation. 
+- There were 4 songs had highly negative scores, the highest being Anti-Hero, with a score of -0.9954, a song about self-deprecation. 
 - There were 9 songs had highly positive scores, which is an indicator of Taylor Swift's happiness in her romantic life.
 
 <img src="images/Screen%20Shot%202023-01-12%20at%2012.23.24%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
