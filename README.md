@@ -1,7 +1,7 @@
 # Nandhini_Portfolio
 Data Science Portfolio
 
-# [Project 1: Disney Movie Dataset Creation (Web Scraping): Project Overview](https://github.com/nandhinishankarl/Web-Scraping/blob/main/Disney_Movie_Dataset_Creation_2.ipynb)
+# [Project 1: Disney Movie Analysis: Project Overview](https://github.com/nandhinishankarl/Web-Scraping/blob/main/Disney_Movie_Dataset_Creation_2.ipynb)
 
 - Scraped the info box from wikipedia for all Disney Films 
 - Made use of the ‘BeautifulSoup’ python library for scraping portions of the webpages
