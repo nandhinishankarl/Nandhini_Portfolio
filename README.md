@@ -1,12 +1,12 @@
 # Nandhini_Portfolio
 Data Science Portfolio
 
-# [Project 1: Disney Movie Analysis: Project Overview](https://github.com/nandhinishankarl/Web-Scraping/blob/main/Disney_Movie_Dataset_Creation_2.ipynb)
+# [Project 1: Disney Movie Analysis: Project Overview](https://github.com/nandhinishankarl/Nandhini_Portfolio/blob/main/Disney_Movie_Analysis.ipynb)
 
 - Scraped the info box from wikipedia for all Disney Films 
 - Made use of the ‘BeautifulSoup’ python library for scraping portions of the webpages
 - Saved data in the form of a csv file and cleaned it using the ‘pandas’ library. 
-- Analyzed the dataset further for the highest grossing Disney film 
+- Visualized top ten grossing films using Python's matplotlib library in the form of a bar graph. 
 - The Lion King was the highest grossing Disney film till date 
 
 
