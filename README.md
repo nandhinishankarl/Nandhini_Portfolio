@@ -32,16 +32,16 @@ Data Science Portfolio
 
 - Scraped track information for all songs on the Billboard Hot 100 list using Spotipy (Spotify’s API) on the 4th of March.
 - Every song has calculated audio features like danceability, song duration and energy.
-- Visualized the top 10 streamed artists using matplotlib, SZA topped the list with 6 songs. 
-- Visualized density plots for audio features using seaborn, the average duration of a song on the Billboard list is 3.3 minutes. 
-- Created a frequency graph based on song emotion using matplotlib: there are 56 sad songs and 44 happy songs.
+- Visualized the top 10 streamed artists using Python's matplotlib library, SZA topped the list with 6 songs. 
+- Visualized density plots for audio features using Python's seaborn library, the average duration of a song on the Billboard list is 3.3 minutes. 
+- Created a frequency graph based on song emotion using Python's matplotlib library, tthere are 56 sad songs and 44 happy songs.
 - Defined the feature variables needed for prediction (audio features) and the target variable to be predicted (popularity score).
 - Used the random forest model to predict popularity scores based on audio features, the accuracy was 70%.
 
 
 <img src="images/Screen%20Shot%202023-03-06%20at%2011.11.19%20AM.png" width="400">&nbsp;&nbsp;&nbsp;
 <img src="images/Screen%20Shot%202023-03-06%20at%2011.14.27%20AM.png" width="400">&nbsp;&nbsp;&nbsp;
-<img src="images/Screen%20Shot%202023-03-06%20at%2011.17.01%20AM.png" width="400">&nbsp;&nbsp;&nbsp;
+<img src="images/Screen%20Shot%202023-03-06%20at%2011.17.01%20AM.png" width="400" height="200">&nbsp;&nbsp;&nbsp;
 
 
 
