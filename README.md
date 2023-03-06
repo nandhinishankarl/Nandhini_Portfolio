@@ -34,7 +34,7 @@ Data Science Portfolio
 - Every song has calculated audio features like danceability, song duration and energy.
 - Visualized the top 10 streamed artists using Python's matplotlib library, SZA topped the list with 6 songs. 
 - Visualized density plots for audio features using Python's seaborn library, the average duration of a song on the Billboard list is 3.3 minutes. 
-- Created a frequency graph based on song emotion using Python's matplotlib library, tthere are 56 sad songs and 44 happy songs.
+- Created a frequency graph based on song emotion using Python's matplotlib library, there are 56 sad songs and 44 happy songs.
 - Defined the feature variables needed for prediction (audio features) and the target variable to be predicted (popularity score).
 - Used the random forest model to predict popularity scores based on audio features, the accuracy was 70%.
 
