@@ -10,7 +10,7 @@ Data Science Portfolio
 - The Lion King was the highest grossing Disney film till date 
 
 
-<img src="images/Screen%20Shot%202022-09-30%20at%209.47.58%20AM.png" width="600">&nbsp;&nbsp;&nbsp;
+<img src="images/Screen%20Shot%202023-03-06%20at%203.58.39%20PM.png" width="600">&nbsp;&nbsp;&nbsp;
 
 # [Project 2: Midnights Sentiment Analysis : Project Overview](https://github.com/nandhinishankarl/Sentiment-Analysis-Projects/blob/main/Midnights%20Sentiment%20Analysis%20-3.ipynb)
 
