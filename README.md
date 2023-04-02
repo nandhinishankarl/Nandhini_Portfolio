@@ -1,7 +1,7 @@
 # Nandhini_Portfolio
 Data Science Portfolio
 
-# [Project 1: Disney Movie Analysis: Project Overview](https://github.com/nandhinishankarl/Nandhini_Portfolio/blob/main/Disney_Movie_Analysis.ipynb)
+# [Data Analysis and Visualization: Disney Films](https://github.com/nandhinishankarl/Nandhini_Portfolio/blob/main/Disney_Movie_Analysis.ipynb)
 
 - Made use of the ‘BeautifulSoup’ Python library to scrape information from Wikipedia for all Disney Films
 - Saved data in the form of a csv file and cleaned it using Python’s pandas library
@@ -12,7 +12,7 @@ Data Science Portfolio
 
 <img src="images/Screen%20Shot%202023-03-06%20at%203.58.39%20PM.png" width="300" height="300">&nbsp;&nbsp;&nbsp;
 
-# [Project 2: Midnights Sentiment Analysis : Project Overview](https://github.com/nandhinishankarl/Sentiment-Analysis-Projects/blob/main/Midnights%20Sentiment%20Analysis%20-3.ipynb)
+# [Sentiment Analysis of Midnights, Taylor Swift’s album](https://github.com/nandhinishankarl/Sentiment-Analysis-Projects/blob/main/Midnights%20Sentiment%20Analysis%20-3.ipynb)
 
 - Scraped lyrics for all songs from the Midnights album using Python’s LyricsGenius library 
 - Cleaned lyrics data by removing unnecessary words and characters/punctuations using Python's re package
@@ -26,7 +26,7 @@ Data Science Portfolio
 <img src="images/Screen%20Shot%202023-01-12%20at%2012.23.24%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
 <img src="images/Screen%20Shot%202023-01-12%20at%2012.23.41%20PM.png" width="300">&nbsp;&nbsp;&nbsp;
 
-# [Project 3: Spotify Song Popularity Analysis and Prediction - Billboard Hot 100 : Project Overview](https://github.com/nandhinishankarl/Nandhini_Portfolio/blob/main/Spotify_Billboard_Hot_100.ipynb)
+# [Predictive Modeling: Spotify Song Popularity, Billboard Hot 100](https://github.com/nandhinishankarl/Nandhini_Portfolio/blob/main/Spotify_Billboard_Hot_100.ipynb)
 
 
 - Scraped track information from Spotify for all songs on the Billboard Hot 100 list using Python’s Spotipy library 
