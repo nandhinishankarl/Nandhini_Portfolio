@@ -12,7 +12,7 @@ Data Science Portfolio
 
 <img src="images/Screen%20Shot%202023-03-06%20at%203.58.39%20PM.png" width="300" height="300">&nbsp;&nbsp;&nbsp;
 
-# [Sentiment Analysis of Midnights, Taylor Swift’s album](https://github.com/nandhinishankarl/Sentiment-Analysis-Projects/blob/main/Midnights%20Sentiment%20Analysis%20-3.ipynb)
+# [NLP: Sentiment Analysis of Midnights, Taylor Swift’s album](https://github.com/nandhinishankarl/Sentiment-Analysis-Projects/blob/main/Midnights%20Sentiment%20Analysis%20-3.ipynb)
 
 - Scraped lyrics for all songs from the Midnights album using Python’s LyricsGenius library 
 - Cleaned lyrics data by removing unnecessary words and characters/punctuations using Python's re package
