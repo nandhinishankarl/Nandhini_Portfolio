@@ -3,7 +3,7 @@ Data Science Portfolio
 
 # [Computational Analysis of Gender Perception in the UK, Capstone Project](https://github.com/niranjanadeshpande/hansardscraping)
 
-- Scraped parliamentary sittings text data from the Hansard website for a comprehensive analysis of gender perception in the UK for the years 1800 – 2004 using BeautifulSoup.
+- Scraped parliamentary text transcripts from the Hansard website for a comprehensive analysis of gender perception in the UK for the years 1800 – 2004 using BeautifulSoup.
 - Visualized the percentage of pronoun usage by decade for male and female pronouns using matplotlib, male pronoun usage rate was approximately 90% and female pronoun usage rate was 15%. Detected an upward trend in female pronoun usage, percentage increased from 15% in 1950 to 20% by 2004.
 - Created wordclouds from word associations related to the word ‘woman’ using fastText. Women were mostly associated with domestic terms like ‘husband, and ‘child’ in the 1800s. Progressive terms like ‘remarried’ and ‘breadwinner’ were found from 1950 – 2000. 
 - The visualizations and wordclouds provided insights into the evolution of women’s representation and their perception in the UK. 
