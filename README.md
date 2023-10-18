@@ -1,4 +1,4 @@
-# Nandhini_Portfolio_1
+# Nandhini_Portfolio
 Data Science Portfolio
 
 # [Computational Analysis of Gender Perception in the UK, Capstone Project](https://github.com/niranjanadeshpande/hansardscraping)
