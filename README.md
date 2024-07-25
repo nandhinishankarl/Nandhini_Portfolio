@@ -29,8 +29,3 @@ Data Science Portfolio
 
 <img src="images/Screen%20Shot%202023-01-12%20at%2012.23.24%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
 <img src="images/Screen%20Shot%202023-01-12%20at%2012.23.41%20PM.png" width="300">&nbsp;&nbsp;&nbsp;
-
-- Utilized the BeautifulSoup library to scrape information from Wikipedia for Disney films
-- Designed a bar graph of the top 10 grossing films using matplotlib that identified The Lion King as the highest grossing Disney film to date
-
-<img src="images/Screen%20Shot%202023-03-06%20at%203.58.39%20PM.png" width="300" height="300">&nbsp;&nbsp;&nbsp;
