@@ -4,6 +4,7 @@ Data Science Portfolio
 # [Computational Analysis of Gender Perception in the UK, Capstone Project](https://github.com/niranjanadeshpande/hansardscraping)
 
 - Scraped parliamentary text transcripts from the Hansard website to analyze gender perception in the UK from 1800 – 2004 using BeautifulSoup
+- Used Git as the platform to manage version control and streamline collaboration with teammates, ensuring organized code development and integration
 - Visualized the percentage of male and female pronoun usage by decade to quantify gender perception using matplotlib, observing that male pronoun usage consistently exceeded female pronoun usage by a margin of 75% throughout the decades while observing a 5% rise in female pronoun usage from 1950 to 2004
 - Developed wordclouds to generate insights that depicted the trends in terms associated with women from the 1800s – 2000s using fastText
 
@@ -28,8 +29,6 @@ Data Science Portfolio
 
 <img src="images/Screen%20Shot%202023-01-12%20at%2012.23.24%20PM.png" width="400">&nbsp;&nbsp;&nbsp;
 <img src="images/Screen%20Shot%202023-01-12%20at%2012.23.41%20PM.png" width="300">&nbsp;&nbsp;&nbsp;
-
-# [Data Analysis and Visualization: Disney Films](https://github.com/nandhinishankarl/Nandhini_Portfolio/blob/main/Disney_Movie_Analysis.ipynb)
 
 - Utilized the BeautifulSoup library to scrape information from Wikipedia for Disney films
 - Designed a bar graph of the top 10 grossing films using matplotlib that identified The Lion King as the highest grossing Disney film to date
